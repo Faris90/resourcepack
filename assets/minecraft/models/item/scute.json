@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/scute"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"foodplusid:item/banka"},{"predicate":{"custom_model_data":2.0},"model":"grime:item/icewalker_spawn_egg"}]}

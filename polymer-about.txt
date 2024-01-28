@@ -1,0 +1,19 @@
+
+  +-----------+
+  |           |
+  |   #   #   |
+  |           |
+  |   #   #   |
+  |    ###    |
+  |           |
+  |           |
+  +-----------+
+
+Generated with Polymer 0.5.19
+
+Vanilla assets by Mojang Studios
+
+Used mod assets: 
+ - Polydex (polydex2)
+
+Armor texture support is based on https://github.com/Ancientkingg/fancyPants

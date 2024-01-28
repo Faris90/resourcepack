@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/quartz"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"grime:item/fisho_spawn_egg"},{"predicate":{"custom_model_data":2.0},"model":"grime:item/lava_monster_spawn_egg"},{"predicate":{"custom_model_data":3.0},"model":"grime:item/squatch_spawn_egg"}]}

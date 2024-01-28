@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_cod"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"foodplusid:item/apple_juice"},{"predicate":{"custom_model_data":2.0},"model":"foodplusid:item/gold_potato"},{"predicate":{"custom_model_data":3.0},"model":"foodplusid:item/rabbit_salad"}]}

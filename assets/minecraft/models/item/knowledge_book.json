@@ -1,0 +1,56 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/knowledge_book"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/lavamo"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/lavamo_d"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/squatch"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/squatch_w"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/squatch_d"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/humbert"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/humberw"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/humberd"
+        }
+    ]
+}

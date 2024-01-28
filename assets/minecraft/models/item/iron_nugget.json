@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/iron_nugget"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"grime:item/leaper_spawn_egg"},{"predicate":{"custom_model_data":2.0},"model":"obsidianequipment:item/obsidian_shard"},{"predicate":{"custom_model_data":3.0},"model":"grime:item/squatchlet_spawn_egg"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/heart_of_the_sea"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"grime:item/crab_spawn_egg"}]}

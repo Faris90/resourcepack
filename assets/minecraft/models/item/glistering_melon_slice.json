@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/glistering_melon_slice"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"obsidianequipment:item/obsidian_ingot"},{"predicate":{"custom_model_data":2.0},"model":"grime:item/slightly_bewildered"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/flint"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"exlinecopperequipment:item/copper_horse_armor"},{"predicate":{"custom_model_data":2.0},"model":"grime:item/humber_spawn_egg"},{"predicate":{"custom_model_data":3.0},"model":"grime:item/squatchlet_spawn_egg"}]}

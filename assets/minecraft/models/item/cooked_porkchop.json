@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_porkchop"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"foodplusid:item/awful_stew"},{"predicate":{"custom_model_data":2.0},"model":"foodplusid:item/lichen"},{"predicate":{"custom_model_data":3.0},"model":"foodplusid:item/raw_frog_leg"}]}

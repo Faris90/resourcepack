@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/netherite_ingot"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"boneequipment:item/bone_horse_armor"},{"predicate":{"custom_model_data":2.0},"model":"grime:item/cowbo_spawn_egg"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_chicken"},"overrides":[{"predicate":{"custom_model_data":1.0},"model":"foodplusid:item/ad_soup"},{"predicate":{"custom_model_data":2.0},"model":"foodplusid:item/gold_beetroot"},{"predicate":{"custom_model_data":3.0},"model":"foodplusid:item/purple_candy"}]}
